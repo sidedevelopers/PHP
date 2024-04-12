@@ -1,4 +1,5 @@
 <?php
+// Prepared statements ensure that user input is treated as data, not as SQL commands.
 
 if (isset($_POST['g_submit'])) {
 
